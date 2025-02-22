@@ -1,0 +1,6 @@
+body{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+h1{color: brown;font-family: fantasy;}
+h2{color:red; background-color: blue;}
+h2:hover{background-color: blueviolet;}
+h3{color: aquamarine;}
+.paragrafo{background-image: url(https://picsum.photos/200/300);background-size: 100%;}
