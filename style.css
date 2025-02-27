@@ -1,6 +1,31 @@
 body{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
-h1{color: brown;font-family: fantasy;}
+h1{color: brown;font-family: fantasy; ;}
 h2{color:red; background-color: blue;}
-h2:hover{background-color: blueviolet;}
+h2:hover{background-color: rgb(159, 62, 249)}
 h3{color: aquamarine;}
 .paragrafo{background-image: url(./img-sfondo/Narcisi-fiori-primaverili-1024x645.webp);background-size: 100%;}
+
+
+ul {display: flex;
+    justify-content: center;
+    list-style: none;
+    background-color: cadetblue;
+    height: 70px;
+    }
+    .menu:hover{border-bottom: solid black 3px;}
+
+    .menu{ 
+        display: flex;
+        text-align: center;
+    color:black;
+    text-decoration: none;
+     margin:30px;}
+     article{display: flex;
+    justify-content: start;
+max-width: 60%;}
+
+aside article{
+height: 400px;
+width: 400px;
+background-color: red;}
+  
